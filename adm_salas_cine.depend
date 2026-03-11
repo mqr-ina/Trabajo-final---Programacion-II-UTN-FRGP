@@ -1,0 +1,2968 @@
+# depslib dependency file v1.0
+1758569326 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+
+1758569272 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1758568915 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\class_sala.h
+	<string>
+	<cstring>
+
+1758820003 source:c:\users\pc-11\desktop\adm_salas_cine\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1758816613 c:\users\pc-11\desktop\adm_salas_cine\class_sala.h
+	<string>
+	<cstring>
+
+1758825123 source:c:\users\pc-11\desktop\adm_salas_cine\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+
+1758819795 source:c:\users\pc-11\desktop\adm_salas_cine\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+
+1758816612 c:\users\pc-11\desktop\adm_salas_cine\class_pelicula.h
+	<string>
+	<cstring>
+
+1758820026 source:c:\users\pc-11\desktop\adm_salas_cine\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1758816612 c:\users\pc-11\desktop\adm_salas_cine\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1758819982 c:\users\pc-11\desktop\adm_salas_cine\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1758820349 source:c:\users\pc-11\desktop\adm_salas_cine\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1758826032 source:c:\users\pc-11\desktop\adm_salas_cine\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1758823626 c:\users\pc-11\desktop\adm_salas_cine\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1758825978 source:c:\users\pc-11\desktop\adm_salas_cine\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+
+1758825005 c:\users\pc-11\desktop\adm_salas_cine\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1758893297 source:c:\users\biblioteca 03\desktop\administracion salas cine\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1758893297 c:\users\biblioteca 03\desktop\administracion salas cine\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1758893298 c:\users\biblioteca 03\desktop\administracion salas cine\class_pelicula.h
+	<string>
+	<cstring>
+
+1758893297 c:\users\biblioteca 03\desktop\administracion salas cine\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1758893297 c:\users\biblioteca 03\desktop\administracion salas cine\class_sala.h
+	<string>
+	<cstring>
+
+1758897394 source:c:\users\biblioteca 03\desktop\administracion salas cine\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1758893297 source:c:\users\biblioteca 03\desktop\administracion salas cine\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+
+1758893297 source:c:\users\biblioteca 03\desktop\administracion salas cine\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1758898299 source:c:\users\biblioteca 03\desktop\administracion salas cine\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1758898032 c:\users\biblioteca 03\desktop\administracion salas cine\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1758897440 source:c:\users\biblioteca 03\desktop\administracion salas cine\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+
+1758893297 c:\users\biblioteca 03\desktop\administracion salas cine\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1758898282 source:c:\users\biblioteca 03\desktop\administracion salas cine\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+
+1759101150 source:c:\users\ferna\onedrive\escritorio\administracion salas cine\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1759101150 c:\users\ferna\onedrive\escritorio\administracion salas cine\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1759101150 c:\users\ferna\onedrive\escritorio\administracion salas cine\class_pelicula.h
+	<string>
+	<cstring>
+
+1759101150 c:\users\ferna\onedrive\escritorio\administracion salas cine\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1759101150 c:\users\ferna\onedrive\escritorio\administracion salas cine\class_sala.h
+	<string>
+	<cstring>
+
+1759101150 source:c:\users\ferna\onedrive\escritorio\administracion salas cine\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1759110918 source:c:\users\ferna\onedrive\escritorio\administracion salas cine\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+
+1759101150 source:c:\users\ferna\onedrive\escritorio\administracion salas cine\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1759110291 source:c:\users\ferna\onedrive\escritorio\administracion salas cine\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1759108372 c:\users\ferna\onedrive\escritorio\administracion salas cine\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1759101814 source:c:\users\ferna\onedrive\escritorio\administracion salas cine\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1759101814 c:\users\ferna\onedrive\escritorio\administracion salas cine\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+
+1759109199 source:c:\users\ferna\onedrive\escritorio\administracion salas cine\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1759101611 c:\users\ferna\onedrive\escritorio\administracion salas cine\rlutil.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cctype>
+	<stdexcept>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<termios.h>
+	<sys/ioctl.h>
+
+1759425625 source:c:\users\pc-11\desktop\administracion salas cine\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+
+1759421852 c:\users\pc-11\desktop\administracion salas cine\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1759427702 c:\users\pc-11\desktop\administracion salas cine\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1759424323 c:\users\pc-11\desktop\administracion salas cine\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1759421852 c:\users\pc-11\desktop\administracion salas cine\class_sala.h
+	<string>
+	<cstring>
+
+1759424659 source:c:\users\pc-11\desktop\administracion salas cine\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1759427760 source:c:\users\pc-11\desktop\administracion salas cine\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+
+1759421851 source:c:\users\pc-11\desktop\administracion salas cine\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1759427812 source:c:\users\pc-11\desktop\administracion salas cine\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1759425082 c:\users\pc-11\desktop\administracion salas cine\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1759421851 source:c:\users\pc-11\desktop\administracion salas cine\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1759425082 c:\users\pc-11\desktop\administracion salas cine\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1759421851 c:\users\pc-11\desktop\administracion salas cine\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1759427568 source:c:\users\pc-11\desktop\administracion salas cine\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1759405531 source:c:\users\mial\desktop\administracion salas cine\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+
+1759405511 c:\users\mial\desktop\administracion salas cine\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1759403540 c:\users\mial\desktop\administracion salas cine\class_pelicula.h
+	<string>
+	<cstring>
+
+1759406708 c:\users\mial\desktop\administracion salas cine\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1759405148 c:\users\mial\desktop\administracion salas cine\class_sala.h
+	<string>
+	<cstring>
+
+1759277377 c:\users\mial\desktop\administracion salas cine\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1759406697 source:c:\users\mial\desktop\administracion salas cine\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1759404314 source:c:\users\mial\desktop\administracion salas cine\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+
+1759277377 source:c:\users\mial\desktop\administracion salas cine\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1759277377 source:c:\users\mial\desktop\administracion salas cine\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1759278467 source:c:\users\mial\desktop\administracion salas cine\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1759277519 c:\users\mial\desktop\administracion salas cine\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1759277840 c:\users\mial\desktop\administracion salas cine\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1759404026 source:c:\users\mial\desktop\administracion salas cine\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1759709955 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+
+1759709489 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1759706932 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1759706932 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1759706932 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\class_sala.h
+	<string>
+	<cstring>
+
+1759792481 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1759706931 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1759706932 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1759706932 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+
+1759706931 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1759792481 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1759706932 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1759706932 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1759793100 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\01-10\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1759859335 source:c:\users\pc-11\desktop\6-10\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+
+1759856185 c:\users\pc-11\desktop\6-10\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1759853597 c:\users\pc-11\desktop\6-10\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1759853597 c:\users\pc-11\desktop\6-10\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1759858606 c:\users\pc-11\desktop\6-10\class_sala.h
+	<string>
+	<cstring>
+
+1759859061 c:\users\pc-11\desktop\6-10\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1759853596 c:\users\pc-11\desktop\6-10\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1759853597 source:c:\users\pc-11\desktop\6-10\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1759853596 source:c:\users\pc-11\desktop\6-10\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+
+1759858831 source:c:\users\pc-11\desktop\6-10\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1759859183 source:c:\users\pc-11\desktop\6-10\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1759853597 source:c:\users\pc-11\desktop\6-10\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1759853720 c:\users\pc-11\desktop\6-10\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1759859551 source:c:\users\pc-11\desktop\6-10\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1759877531 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+
+1759877531 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1759877531 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1759877531 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1759877531 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\class_sala.h
+	<string>
+	<cstring>
+
+1759883414 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1759877531 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1759877531 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1759877531 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+
+1759877531 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1759884749 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iomanip>
+
+1759877531 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1759878933 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1759884832 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\6-10\6-10\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+
+1760033377 source:c:\users\pc-11\desktop\9-10\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+
+1760028863 c:\users\pc-11\desktop\9-10\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760031029 c:\users\pc-11\desktop\9-10\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1760028863 c:\users\pc-11\desktop\9-10\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1760028863 c:\users\pc-11\desktop\9-10\class_sala.h
+	<string>
+	<cstring>
+
+1760032783 c:\users\pc-11\desktop\9-10\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1760028863 c:\users\pc-11\desktop\9-10\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760028863 source:c:\users\pc-11\desktop\9-10\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1760033294 source:c:\users\pc-11\desktop\9-10\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+
+1760028863 source:c:\users\pc-11\desktop\9-10\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760033740 source:c:\users\pc-11\desktop\9-10\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iomanip>
+
+1760028863 source:c:\users\pc-11\desktop\9-10\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1760030390 c:\users\pc-11\desktop\9-10\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1760033223 source:c:\users\pc-11\desktop\9-10\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+
+1760134417 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+
+1760134417 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760134417 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1760134417 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1760134417 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\class_sala.h
+	<string>
+	<cstring>
+
+1760135263 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1760134417 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760134417 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1760134417 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+
+1760134417 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760134417 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1760134417 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1760135263 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+
+1760135339 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\9-10 vl\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iomanip>
+
+1760231935 source:c:\users\mial\desktop\11-10\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+
+1760230240 c:\users\mial\desktop\11-10\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760237432 c:\users\mial\desktop\11-10\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1760230240 c:\users\mial\desktop\11-10\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1760230240 c:\users\mial\desktop\11-10\class_sala.h
+	<string>
+	<cstring>
+
+1760237432 c:\users\mial\desktop\11-10\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1760230240 c:\users\mial\desktop\11-10\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760230240 source:c:\users\mial\desktop\11-10\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1760238015 source:c:\users\mial\desktop\11-10\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+
+1760230240 source:c:\users\mial\desktop\11-10\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760232630 source:c:\users\mial\desktop\11-10\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iomanip>
+
+1760230240 source:c:\users\mial\desktop\11-10\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+
+1760230240 c:\users\mial\desktop\11-10\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1760237432 source:c:\users\mial\desktop\11-10\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+
+1760285897 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+
+1760285897 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760288304 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1760285897 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1760285897 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\class_sala.h
+	<string>
+	<cstring>
+
+1760292027 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1760285897 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760285897 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1760288672 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+	<ctime>
+
+1760285897 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760288559 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<ctime>
+
+1760285897 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1760292116 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iomanip>
+
+1760288559 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\12-10\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+	<ctime>
+
+1760302244 source:c:\users\mial\desktop\12-10 actualizado\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+
+1760298759 c:\users\mial\desktop\12-10 actualizado\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760298759 c:\users\mial\desktop\12-10 actualizado\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1760298759 c:\users\mial\desktop\12-10 actualizado\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1760298759 c:\users\mial\desktop\12-10 actualizado\class_sala.h
+	<string>
+	<cstring>
+
+1760302174 c:\users\mial\desktop\12-10 actualizado\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1760298759 c:\users\mial\desktop\12-10 actualizado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760298759 source:c:\users\mial\desktop\12-10 actualizado\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1760298759 source:c:\users\mial\desktop\12-10 actualizado\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+	<ctime>
+
+1760298759 source:c:\users\mial\desktop\12-10 actualizado\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760302491 source:c:\users\mial\desktop\12-10 actualizado\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iomanip>
+
+1760298759 source:c:\users\mial\desktop\12-10 actualizado\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<ctime>
+
+1760298759 c:\users\mial\desktop\12-10 actualizado\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1760300944 source:c:\users\mial\desktop\12-10 actualizado\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+	<ctime>
+
+1760395014 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+	<iomanip>
+
+1760395561 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760376956 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1760376956 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1760376956 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\class_sala.h
+	<string>
+	<cstring>
+
+1760393960 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1760376956 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760376956 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1760376956 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+	<ctime>
+
+1760376956 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760394731 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iomanip>
+
+1760376956 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<ctime>
+
+1760376956 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1760379917 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\adm_salas_cine\carpeta de mierda\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+	<ctime>
+
+1760462669 source:c:\users\pc-11\desktop\13-10 laconchadtumadr\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+	<iomanip>
+
+1760459215 c:\users\pc-11\desktop\13-10 laconchadtumadr\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760464054 c:\users\pc-11\desktop\13-10 laconchadtumadr\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1760459215 c:\users\pc-11\desktop\13-10 laconchadtumadr\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1760459215 c:\users\pc-11\desktop\13-10 laconchadtumadr\class_sala.h
+	<string>
+	<cstring>
+
+1760461997 c:\users\pc-11\desktop\13-10 laconchadtumadr\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1760459215 c:\users\pc-11\desktop\13-10 laconchadtumadr\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760459215 source:c:\users\pc-11\desktop\13-10 laconchadtumadr\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1760464054 source:c:\users\pc-11\desktop\13-10 laconchadtumadr\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+	<ctime>
+
+1760460106 source:c:\users\pc-11\desktop\13-10 laconchadtumadr\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1760463343 source:c:\users\pc-11\desktop\13-10 laconchadtumadr\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"rlutil.h"
+	<iomanip>
+
+1760459215 source:c:\users\pc-11\desktop\13-10 laconchadtumadr\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<ctime>
+
+1760459215 c:\users\pc-11\desktop\13-10 laconchadtumadr\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1760464291 source:c:\users\pc-11\desktop\13-10 laconchadtumadr\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+	<ctime>
+
+1761672253 source:c:\users\pc-11\desktop\multicine\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+	<iomanip>
+	"GestorSalas.h"
+
+1761671863 c:\users\pc-11\desktop\multicine\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1761668822 c:\users\pc-11\desktop\multicine\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1761668822 c:\users\pc-11\desktop\multicine\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1761668822 c:\users\pc-11\desktop\multicine\class_sala.h
+	<string>
+	<cstring>
+
+1761674571 c:\users\pc-11\desktop\multicine\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1761668822 c:\users\pc-11\desktop\multicine\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1761668822 source:c:\users\pc-11\desktop\multicine\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1761671863 source:c:\users\pc-11\desktop\multicine\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+	<ctime>
+
+1761674927 source:c:\users\pc-11\desktop\multicine\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	"GestorArchivos.h"
+	<string>
+	<cstring>
+
+1761675135 source:c:\users\pc-11\desktop\multicine\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+
+1761668822 source:c:\users\pc-11\desktop\multicine\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<ctime>
+
+1761668822 c:\users\pc-11\desktop\multicine\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1761672321 source:c:\users\pc-11\desktop\multicine\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+	<ctime>
+
+1761668823 source:c:\users\pc-11\desktop\multicine\gestorpelicula.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+
+1761668823 c:\users\pc-11\desktop\multicine\gestorpelicula.h
+
+1761673932 source:c:\users\pc-11\desktop\multicine\gestorsalas.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+	<iostream>
+	"GestorSalas.h"
+
+1761673932 c:\users\pc-11\desktop\multicine\gestorsalas.h
+
+1761671692 source:c:\users\pc-11\desktop\multicine\detalle_venta.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+	"Detalle_Venta.h"
+
+1761671467 c:\users\pc-11\desktop\multicine\detalle_venta.h
+	"class_Entradas.h"
+	<stdio.h>
+	<cstring>
+
+1761709163 source:c:\users\mial\desktop\multicine no funcional\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+	<iomanip>
+	"GestorSalas.h"
+
+1761694891 c:\users\mial\desktop\multicine no funcional\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1761692084 c:\users\mial\desktop\multicine no funcional\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1761692084 c:\users\mial\desktop\multicine no funcional\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1761692084 c:\users\mial\desktop\multicine no funcional\class_sala.h
+	<string>
+	<cstring>
+
+1761705393 c:\users\mial\desktop\multicine no funcional\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1761692084 c:\users\mial\desktop\multicine no funcional\gestorpelicula.h
+
+1761692084 c:\users\mial\desktop\multicine no funcional\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1761705393 c:\users\mial\desktop\multicine no funcional\gestorsalas.h
+
+1761692084 source:c:\users\mial\desktop\multicine no funcional\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1761692084 source:c:\users\mial\desktop\multicine no funcional\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+	<ctime>
+
+1761695087 source:c:\users\mial\desktop\multicine no funcional\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	"GestorArchivos.h"
+	<string>
+	<cstring>
+
+1761692084 source:c:\users\mial\desktop\multicine no funcional\detalle_venta.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+	"Detalle_Venta.h"
+
+1761692084 c:\users\mial\desktop\multicine no funcional\detalle_venta.h
+	"class_Entradas.h"
+	<stdio.h>
+	<cstring>
+
+1761749235 source:c:\users\mial\desktop\multicine no funcional\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+
+1761692084 source:c:\users\mial\desktop\multicine no funcional\gestorpelicula.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+
+1761705393 source:c:\users\mial\desktop\multicine no funcional\gestorsalas.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+	<iostream>
+	"GestorSalas.h"
+
+1761692084 source:c:\users\mial\desktop\multicine no funcional\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<ctime>
+
+1761692084 c:\users\mial\desktop\multicine no funcional\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1761748352 source:c:\users\mial\desktop\multicine no funcional\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+	<ctime>
+
+1761844884 source:c:\users\pc-11\desktop\cine semifuncional\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+	<iomanip>
+	"GestorSalas.h"
+
+1761841566 c:\users\pc-11\desktop\cine semifuncional\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1761841565 c:\users\pc-11\desktop\cine semifuncional\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1761841566 c:\users\pc-11\desktop\cine semifuncional\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1761841566 c:\users\pc-11\desktop\cine semifuncional\class_sala.h
+	<string>
+	<cstring>
+
+1761841565 c:\users\pc-11\desktop\cine semifuncional\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1761841565 c:\users\pc-11\desktop\cine semifuncional\gestorpelicula.h
+
+1761841565 c:\users\pc-11\desktop\cine semifuncional\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1761842543 c:\users\pc-11\desktop\cine semifuncional\gestorsalas.h
+
+1761841565 source:c:\users\pc-11\desktop\cine semifuncional\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1761841565 source:c:\users\pc-11\desktop\cine semifuncional\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+	<ctime>
+
+1761842667 source:c:\users\pc-11\desktop\cine semifuncional\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	"GestorArchivos.h"
+	"GestorSalas.h"
+	<string>
+	<cstring>
+
+1761845085 source:c:\users\pc-11\desktop\cine semifuncional\detalle_venta.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+	"Detalle_Venta.h"
+
+1761845217 c:\users\pc-11\desktop\cine semifuncional\detalle_venta.h
+	"class_Entradas.h"
+	<stdio.h>
+	<cstring>
+
+1761845454 source:c:\users\pc-11\desktop\cine semifuncional\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+
+1761841565 source:c:\users\pc-11\desktop\cine semifuncional\gestorpelicula.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+
+1761842815 source:c:\users\pc-11\desktop\cine semifuncional\gestorsalas.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+	<iostream>
+	"GestorSalas.h"
+
+1761841565 source:c:\users\pc-11\desktop\cine semifuncional\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<ctime>
+
+1761841565 c:\users\pc-11\desktop\cine semifuncional\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1761845454 source:c:\users\pc-11\desktop\cine semifuncional\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"Detalle_Venta.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+	<ctime>
+
+1762897015 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+	<iomanip>
+	"GestorSalas.h"
+
+1762897016 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1762897016 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1762897015 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1762897016 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\class_sala.h
+	<string>
+	<cstring>
+
+1762897016 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1762897016 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\gestorpelicula.h
+
+1762897016 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1762897016 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\gestorsalas.h
+
+1762897016 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1762897016 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+	<ctime>
+
+1762897015 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	"GestorArchivos.h"
+	"GestorSalas.h"
+	<string>
+	<cstring>
+
+1762902286 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\detalle_venta.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+	"Detalle_Venta.h"
+
+1762900933 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\detalle_venta.h
+	"class_Entradas.h"
+	<stdio.h>
+	<cstring>
+
+1762897015 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+
+1762897016 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\gestorpelicula.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+
+1762897015 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\gestorsalas.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+	<iostream>
+	"GestorSalas.h"
+
+1762897016 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<ctime>
+
+1762897016 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1762902286 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\cine semifuncional\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"Detalle_Venta.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+	<ctime>
+
+1763051719 source:c:\users\pc-11\desktop\13-11\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+	<iomanip>
+	"GestorSalas.h"
+
+1763051719 c:\users\pc-11\desktop\13-11\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1763051719 c:\users\pc-11\desktop\13-11\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1763051719 c:\users\pc-11\desktop\13-11\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1763056111 c:\users\pc-11\desktop\13-11\class_sala.h
+	<string>
+	<cstring>
+
+1763051719 c:\users\pc-11\desktop\13-11\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1763051719 c:\users\pc-11\desktop\13-11\gestorpelicula.h
+
+1763051719 c:\users\pc-11\desktop\13-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1763056619 c:\users\pc-11\desktop\13-11\gestorsalas.h
+
+1763051719 source:c:\users\pc-11\desktop\13-11\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1763051719 source:c:\users\pc-11\desktop\13-11\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+	<ctime>
+
+1763056111 source:c:\users\pc-11\desktop\13-11\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	"GestorArchivos.h"
+	"GestorSalas.h"
+	"GestorPelicula.h"
+	<string>
+	<cstring>
+
+1763051719 source:c:\users\pc-11\desktop\13-11\detalle_venta.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+	"Detalle_Venta.h"
+
+1763054292 c:\users\pc-11\desktop\13-11\detalle_venta.h
+	"class_Entradas.h"
+	<stdio.h>
+	<cstring>
+
+1763053804 source:c:\users\pc-11\desktop\13-11\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+
+1763051719 source:c:\users\pc-11\desktop\13-11\gestorpelicula.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+
+1763051719 source:c:\users\pc-11\desktop\13-11\gestorsalas.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+	<iostream>
+	"GestorSalas.h"
+
+1763051719 source:c:\users\pc-11\desktop\13-11\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<ctime>
+
+1763051719 c:\users\pc-11\desktop\13-11\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1763056619 source:c:\users\pc-11\desktop\13-11\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"Detalle_Venta.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+	<ctime>
+
+1763161167 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+	<iomanip>
+	"GestorSalas.h"
+
+1763156807 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1763158345 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1763160825 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1763156807 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\class_sala.h
+	<string>
+	<cstring>
+
+1763159166 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1763158028 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\gestorpelicula.h
+
+1763156807 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1763156807 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\gestorsalas.h
+
+1763161167 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1763156807 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	"GestorArchivos.h"
+	"GestorSalas.h"
+	"GestorPelicula.h"
+	<string>
+	<cstring>
+
+1763156807 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\detalle_venta.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+	"Detalle_Venta.h"
+
+1763156807 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\detalle_venta.h
+	"class_Entradas.h"
+	<stdio.h>
+	<cstring>
+
+1763161220 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+
+1763156807 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\gestorsalas.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+	<iostream>
+	"GestorSalas.h"
+
+1763156807 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<ctime>
+
+1763156807 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1763157990 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\gestorpelicula.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+
+1763158925 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+	<ctime>
+
+1763161205 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\13-11\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"Detalle_Venta.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+	<ctime>
+
+1763161167 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\class_entradas.cpp
+	"class_Entradas.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+	<cstring>
+	<regex>
+	<iomanip>
+	"GestorSalas.h"
+
+1763156807 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\class_entradas.h
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_sala.h"
+	<string>
+	<cstring>
+
+1763158345 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\class_pelicula.h
+	<string>
+	<cstring>
+	"class_Fecha.h"
+
+1763160825 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\class_fecha.h
+	<string>
+	<cstring>
+	<stdio.h>
+
+1763156807 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\class_sala.h
+	<string>
+	<cstring>
+
+1763159166 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\gestorarchivos.h
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+
+1763158028 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\gestorpelicula.h
+
+1763156807 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1763156807 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\gestorsalas.h
+
+1763161167 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\class_fecha.cpp
+	"class_Fecha.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1763158925 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\class_pelicula.cpp
+	<iostream>
+	"class_pelicula.h"
+	<string>
+	<cstring>
+	"rlutil.h"
+	<regex>
+	<ctime>
+
+1763156807 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\class_sala.cpp
+	<iostream>
+	"class_sala.h"
+	"GestorArchivos.h"
+	"GestorSalas.h"
+	"GestorPelicula.h"
+	<string>
+	<cstring>
+
+1763156807 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\detalle_venta.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+	"Detalle_Venta.h"
+
+1763156807 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\detalle_venta.h
+	"class_Entradas.h"
+	<stdio.h>
+	<cstring>
+
+1763161220 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\gestorarchivos.cpp
+	<iostream>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"rlutil.h"
+	<iomanip>
+
+1763157990 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\gestorpelicula.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+
+1763156807 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\gestorsalas.cpp
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"rlutil.h"
+	<iomanip>
+	<iostream>
+	"GestorSalas.h"
+
+1763156807 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"menu.h"
+	"rlutil.h"
+	<ctime>
+
+1763156807 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\menu.h
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+
+1763161205 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\17-11\menu.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"class_sala.h"
+	"class_pelicula.h"
+	"class_Fecha.h"
+	"class_Entradas.h"
+	"GestorArchivos.h"
+	"GestorPelicula.h"
+	"GestorSalas.h"
+	"Detalle_Venta.h"
+	"menu.h"
+	"rlutil.h"
+	<iomanip>
+	<regex>
+	<ctime>
+
