@@ -1,0 +1,18 @@
+# Archivos compilados
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+
+# Carpetas de build
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos de IDE (Code::Blocks)
+*.depend
+*.layout
